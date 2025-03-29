@@ -23,7 +23,7 @@
 
 <h2 id="Como acessar"> :computer_mouse: Como acessar?</h2>
 
-Acesse e interaja com o projeto no site <a href="https://minhasgrandescriancas.org/">Minhas Grandes Crianças</a>.
+Acesse e interaja com o projeto no site <a href="https://projeto-mgc-phi.vercel.app/home">Minhas Grandes Crianças</a>.
 
 
 <h2 id="descricao">:pencil2: Descrição</h2>
